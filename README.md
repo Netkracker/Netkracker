@@ -19,7 +19,7 @@ interests:
   - PowerShell and Bash Automation
 ```
 
-## Let's Connect and have a Chat!💬
+## 💬 Let's Connect and have a Chat
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ampoule_legends.0r@icloud.com)
 
